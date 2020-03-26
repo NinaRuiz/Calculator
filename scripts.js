@@ -46,6 +46,6 @@ save.addEventListener('click', function () {
 
 //Use button
 use.addEventListener('click', function () {
-    inpt.value = use;
+    inpt.value = saver;
 });
 
